@@ -1,6 +1,6 @@
 ![Front-End Web Developer](https://devjahirul.com/wp-content/uploads/2024/09/Untitled-design.png)
 ### Hi there 👋, I'm Jahirul 
-#### Front-End Web Developer
+#### A Front-End Web Developer
 
 
 I’m a front-end web developer who is passionate about making error-free websites with 100% client satisfaction I love to solve real-world problems. I am strategic and goal-oriented and always work with an end goal.
